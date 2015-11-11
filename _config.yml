@@ -1,7 +1,9 @@
 # Header
 menu:
   Home: /
-  Java Tutorials: /java
+  Technology: /categories/technology/
+  Sports: /categories/sports/
+  Java: /tags/java/
 rss: /atom.xml
 
 # Content
