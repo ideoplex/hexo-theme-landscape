@@ -19,7 +19,7 @@ widgets:
 
 # widget behavior
 archive_type: 'monthly'
-show_count: true
+show_count: false
 
 # Miscellaneous
 google_analytics:
